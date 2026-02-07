@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="220" viewBox="0 0 780 220">
+  <rect width="780" height="220" fill="#0b0b0b" rx="16" ry="16"/>
+  <g fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 170 L140 40 L210 170" />
+    <path d="M260 170 L260 60 Q260 40 280 40 L360 40 Q410 40 410 90 Q410 135 360 135 L260 135" />
+    <path d="M500 55 Q430 55 430 110 Q430 165 500 165 Q570 165 570 110" />
+    <path d="M620 65 Q660 40 700 55 Q740 70 730 110 Q720 150 660 155 Q610 160 620 185 Q630 210 690 200" />
+  </g>
+  <text x="390" y="205" text-anchor="middle" fill="#ffffff" font-size="20" font-family="Poppins, Arial, sans-serif" letter-spacing="8">
+    ALGERIAN PORT COMMUNITY SYSTEM
+  </text>
+</svg>
